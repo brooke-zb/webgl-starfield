@@ -1,0 +1,19 @@
+{
+  "name": "webgl-starfield",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.9",
+    "@babylonjs/core": "^6.9.0",
+    "@babylonjs/loaders": "^6.9.0",
+    "babylonjs-gltf2interface": "^6.9.0"
+  }
+}
